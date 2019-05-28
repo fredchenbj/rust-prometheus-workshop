@@ -27,3 +27,6 @@ Improve performance by using integer metrics and static metrics.
 ## P7
 
 Improve performance by using thread local metrics.
+
+## P8
+A metric service for pulling using hyper.
